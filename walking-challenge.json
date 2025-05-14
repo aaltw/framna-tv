@@ -1,71 +1,72 @@
 [
   {
-    date: "2025-05-12",
-    teams: [
-        {
-    "team": "Roadrunners",
-    "distance": 32,
-    "color": "pink"
+    "date": "2025-05-12",
+    "teams": [
+      {
+        "team": "Roadrunners",
+        "distance": 32,
+        "color": "pink"
+      },
+      {
+        "team": "De Stappentrappers",
+        "distance": 32,
+        "color": "red"
+      },
+      {
+        "team": "Legendary Lightkeepers",
+        "distance": 32,
+        "color": "blue"
+      },
+      {
+        "team": "The Bald and the Beautiful",
+        "distance": 32,
+        "color": "purple"
+      },
+      {
+        "team": "Pita Patrol",
+        "distance": 32,
+        "color": "yellow"
+      },
+      {
+        "team": "Hedy en de kreupels",
+        "distance": 18.21,
+        "color": "green"
+      }
+    ]
   },
   {
-    "team": "De Stappentrappers",
-    "distance": 32,
-    "color": "red"
-  },
-  {
-    "team": "Legendary Lightkeepers",
-    "distance": 32,
-    "color": "blue"
-  },
-  {
-    "team": "The Bald and the Beautiful",
-    "distance": 32,
-    "color": "purple"
-  },
-  {
-    "team": "Pita Patrol",
-    "distance": 32,
-    "color": "yellow"
-  },
-  {
-    "team": "Hedy en de kreupels",
-    "distance": 18.21,
-    "color": "green"
-  }]
-  }, {
-    date: "2025-05-13",
-    teams: [
-        {
-    "team": "Roadrunners",
-    "distance": 64,
-    "color": "pink"
-  },
-  {
-    "team": "De Stappentrappers",
-    "distance": 64,
-    "color": "red"
-  },
-  {
-    "team": "Legendary Lightkeepers",
-    "distance": 64,
-    "color": "blue"
-  },
-  {
-    "team": "The Bald and the Beautiful",
-    "distance": 64,
-    "color": "purple"
-  },
-  {
-    "team": "Pita Patrol",
-    "distance": 64,
-    "color": "yellow"
-  },
-  {
-    "team": "Hedy en de kreupels",
-    "distance": 32.90,
-    "color": "green"
-  }]
-  },
-  
-
+    "date": "2025-05-13",
+    "teams": [
+      {
+        "team": "Roadrunners",
+        "distance": 64,
+        "color": "pink"
+      },
+      {
+        "team": "De Stappentrappers",
+        "distance": 64,
+        "color": "red"
+      },
+      {
+        "team": "Legendary Lightkeepers",
+        "distance": 64,
+        "color": "blue"
+      },
+      {
+        "team": "The Bald and the Beautiful",
+        "distance": 64,
+        "color": "purple"
+      },
+      {
+        "team": "Pita Patrol",
+        "distance": 64,
+        "color": "yellow"
+      },
+      {
+        "team": "Hedy en de kreupels",
+        "distance": 32.90,
+        "color": "green"
+      }
+    ]
+  }
 ]
