@@ -1,30 +1,32 @@
-[{
-    team: "Roadrunners",
-    distance: 32,
-    color: "pink",
+[
+  {
+    "team": "Roadrunners",
+    "distance": 32,
+    "color": "pink"
   },
   {
-    team: "De Stappentrappers",
-    distance: 32,
-    color: "red",
+    "team": "De Stappentrappers",
+    "distance": 32,
+    "color": "red"
   },
   {
-    team: "Legendary Lightkeepers",
-    distance: 32,
-    color: "blue",
+    "team": "Legendary Lightkeepers",
+    "distance": 32,
+    "color": "blue"
   },
   {
-    team: "The Bald and the Beautiful",
-    distance: 32,
-    color: "purple",
+    "team": "The Bald and the Beautiful",
+    "distance": 32,
+    "color": "purple"
   },
   {
-    team: "Pita Patrol",
-    distance: 32,
-    color: "yellow",
+    "team": "Pita Patrol",
+    "distance": 32,
+    "color": "yellow"
   },
   {
-    team: "Hedy en de kreupels",
-    distance: 18.21,
-    color: "green",
-  }]
+    "team": "Hedy en de kreupels",
+    "distance": 18.21,
+    "color": "green"
+  }
+]
