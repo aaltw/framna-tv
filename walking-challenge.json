@@ -1,36 +1,30 @@
 [{
     team: "Roadrunners",
     distance: 32,
-    progress: (32 / total) * 100,
-    color: "pink" as const,
+    color: "pink",
   },
   {
     team: "De Stappentrappers",
     distance: 32,
-    progress: (32 / total) * 100,
-    color: "red" as const,
+    color: "red",
   },
   {
     team: "Legendary Lightkeepers",
     distance: 32,
-    progress: (32 / total) * 100,
-    color: "blue" as const,
+    color: "blue",
   },
   {
     team: "The Bald and the Beautiful",
     distance: 32,
-    progress: (32 / total) * 100,
-    color: "purple" as const,
+    color: "purple",
   },
   {
     team: "Pita Patrol",
     distance: 32,
-    progress: (32 / total) * 100,
-    color: "yellow" as const,
+    color: "yellow",
   },
   {
     team: "Hedy en de kreupels",
     distance: 18.21,
-    progress: (18.21 / total) * 100,
-    color: "green" as const,
+    color: "green",
   }]
