@@ -69,7 +69,7 @@
       }
     ]
   },
-   {
+  {
     "date": "2025-05-14",
     "teams": [
       {
@@ -103,5 +103,40 @@
         "color": "green"
       }
     ]
-  }
+  },
+  {
+    "date": "2025-05-18",
+    "teams": [
+      {
+        "team": "Roadrunners",
+        "distance": 224,
+        "color": "pink"
+      },
+      {
+        "team": "De Stappentrappers",
+        "distance": 224,
+        "color": "red"
+      },
+      {
+        "team": "Legendary Lightkeepers",
+        "distance": 224,
+        "color": "blue"
+      },
+      {
+        "team": "The Bald and the Beautiful",
+        "distance": 224,
+        "color": "purple"
+      },
+      {
+        "team": "Pita Patrol",
+        "distance": 224,
+        "color": "yellow"
+      },
+      {
+        "team": "Hedy en de kreupels",
+        "distance": 70.41,
+        "color": "green"
+      }
+    ]
+  },
 ]
